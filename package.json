@@ -73,6 +73,6 @@
     "nvd3": "1.8",
     "summernote": "0.7.3",
     "ui-select": "0.19",
-    "underscore": "1.7"
+    "underscore": "1.12"
   }
 }
